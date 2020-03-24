@@ -1,0 +1,9 @@
+C:\Users\PISTON\source\repos\A1SagarVaddoriya\A1SagarVaddoriya\bin\Debug\A1SagarVaddoriya.exe.config
+C:\Users\PISTON\source\repos\A1SagarVaddoriya\A1SagarVaddoriya\bin\Debug\A1SagarVaddoriya.exe
+C:\Users\PISTON\source\repos\A1SagarVaddoriya\A1SagarVaddoriya\bin\Debug\A1SagarVaddoriya.pdb
+C:\Users\PISTON\source\repos\A1SagarVaddoriya\A1SagarVaddoriya\obj\Debug\A1SagarVaddoriya.csprojAssemblyReference.cache
+C:\Users\PISTON\source\repos\A1SagarVaddoriya\A1SagarVaddoriya\obj\Debug\A1SagarVaddoriya.Form1.resources
+C:\Users\PISTON\source\repos\A1SagarVaddoriya\A1SagarVaddoriya\obj\Debug\A1SagarVaddoriya.Properties.Resources.resources
+C:\Users\PISTON\source\repos\A1SagarVaddoriya\A1SagarVaddoriya\obj\Debug\A1SagarVaddoriya.csproj.GenerateResource.cache
+C:\Users\PISTON\source\repos\A1SagarVaddoriya\A1SagarVaddoriya\obj\Debug\A1SagarVaddoriya.exe
+C:\Users\PISTON\source\repos\A1SagarVaddoriya\A1SagarVaddoriya\obj\Debug\A1SagarVaddoriya.pdb
